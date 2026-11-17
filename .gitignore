@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+# Dados pessoais nunca entram no repositório (backups, exportações, fotos)
+*.backup.json
+treino-backup*.json
+*.ics
